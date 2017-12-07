@@ -11,6 +11,6 @@
   "dependencies": {
     "express": "4.16.2",
     "jsreport": "1.9.2",
-    "jsreport-contrib-mongodb": "0.0.1"
+    "jsreport-contrib-mongodb": "0.0.2"
   }
 }
